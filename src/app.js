@@ -1,5 +1,5 @@
-// src/app.js   
-// アプリケーションの設定
+// src/app.js
+// issue2というbranchでこのコメントを追加.
 const express = require('express');
 const app = express();
 
