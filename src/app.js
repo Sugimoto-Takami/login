@@ -1,5 +1,4 @@
-// src/app.js   
-// アプリケーションの設定
+// src/app.js
 const express = require('express');
 const app = express();
 
